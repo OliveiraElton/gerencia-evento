@@ -9,3 +9,7 @@ Projeto para Gerenciamento de Eventos
 <h4>Documentação: Swagger</h4>
 
 <h4>Abaixo alguns detalhes:</h4>
+
+<h4Swagger</4>
+![Api Documentação](https://user-images.githubusercontent.com/48229223/109369614-c1a41a80-787b-11eb-88d1-c1250437640f.png)
+
