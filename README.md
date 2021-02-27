@@ -7,6 +7,7 @@ Projeto para Gerenciamento de Eventos
 <h4>Banco de dados: H2</h4>
 <h4>Web: Thymeleaf</h4>
 <h4>Documentação: Swagger</h4>
+<h4>Para executar o projeto, é necessário realizar o download e abrir em sua IDE preferida e executalo</h4>
 
 <h4>Abaixo alguns detalhes:</h4>
 
